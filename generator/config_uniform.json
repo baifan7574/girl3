@@ -14,8 +14,8 @@
   "batch_size": 20,
   "total_images": 50,
   "seed": -1,
-  "prompt": "slim beautiful woman in sexy uniform outfit, black heels, standing confidently, cinematic lighting, high quality photo",
-  "negative_prompt": "blurry, distorted, ugly, cartoon, out of frame",
+  "prompt": "photo of a beautiful pale-skinned woman in a stylish uniform outfit, posing in a well-lit indoor scene with balanced soft lighting, no shadows, smooth skin, clean white background, Nikon DSLR photo, fashion magazine quality, natural look, high clarity",
+  "negative_prompt": "cartoon, painting, drawing, blurry, watermark, bad anatomy, distorted face, extra fingers, nsfw, nude, shadow, dark lighting, backlight, low contrast",
   "output_dir": "../uniform",
   "category": "uniform"
 }
