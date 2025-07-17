@@ -48,7 +48,9 @@ def generate_image_pages():
             print(f"⚠️ 无关键词跳过：{category}")
             continue
         for img in glob.glob(str(folder / "*.jpg")):
-            html_path = folder / (Path(img).stem + ".html")
+            # 用真实文件名 + _seo.html 生成 HTML 文件
+            html_name = os.path.splitext(os.path.basename(img))[0] + "_seo.html"
+            html_path = folder / html_name
             with open(html_path, "w", encoding="utf-8") as f:
                 f.write(make_html_for_image(img, category, keywords))
     print("✅ 带SEO的图片页面生成完成")
