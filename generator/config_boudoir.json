@@ -1,0 +1,10 @@
+{
+  "prompt": "photo of a beautiful woman in lingerie, sensual boudoir style, sitting on a bed, soft lighting, high resolution, cinematic tones, realistic skin, elegant pose, indoor, Nikon D850",
+  "negative_prompt": "cartoon, painting, drawing, blur, ugly, watermark, text, logo, extra fingers, distorted face, bad anatomy, nsfw",
+  "steps": 25,
+  "sampler_index": "DPM++ 2M Karras",
+  "width": 768,
+  "height": 1152,
+  "batch_size": 20,
+  "category": "boudoir"
+}
