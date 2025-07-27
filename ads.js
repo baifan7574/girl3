@@ -1,5 +1,4 @@
-
-// Monetag - In-Page Push (Anti-AdBlock) - Zone ID: 9629285
+// Monetag - In-Page Push
 (function() {
   var push = document.createElement('script');
   push.src = 'https://fpyf8.com/88/tag.min.js';
@@ -9,7 +8,7 @@
   document.head.appendChild(push);
 })();
 
-// Monetag - Vignette Banner (Anti-AdBlock) - Zone ID: 9629311
+// Monetag - Vignette Banner
 (function() {
   var vignette = document.createElement('script');
   vignette.src = 'https://fpyf8.com/88/tag.min.js';
