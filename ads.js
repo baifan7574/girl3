@@ -1,19 +1,17 @@
-// Monetag - In-Page Push
+// Monetag - In-Page Push (Zone ID: 9630298)
 (function() {
-  var push = document.createElement('script');
-  push.src = 'https://fpyf8.com/88/tag.min.js';
-  push.async = true;
-  push.setAttribute('data-zone', '9629285');
-  push.setAttribute('data-cfasync', 'false');
-  document.head.appendChild(push);
+    var push = document.createElement('script');
+    push.src = 'https://js.monetag.com/9630298.js';
+    push.async = true;
+    push.setAttribute('data-cfasync', 'false');
+    document.head.appendChild(push);
 })();
 
-// Monetag - Vignette Banner
+// Monetag - Vignette Banner (Zone ID: 9630296)
 (function() {
-  var vignette = document.createElement('script');
-  vignette.src = 'https://fpyf8.com/88/tag.min.js';
-  vignette.async = true;
-  vignette.setAttribute('data-zone', '9629311');
-  vignette.setAttribute('data-cfasync', 'false');
-  document.head.appendChild(vignette);
+    var vignette = document.createElement('script');
+    vignette.src = 'https://js.monetag.com/9630296.js';
+    vignette.async = true;
+    vignette.setAttribute('data-cfasync', 'false');
+    document.head.appendChild(vignette);
 })();
