@@ -14,9 +14,8 @@
   "batch_size": 20,
   "total_images": 50,
   "seed": -1,
-  "prompt": "photo of a confident pale-skinned woman in a sleek black dress, standing in a dramatic indoor setting with moody but balanced lighting, high-contrast shadows, glowing skin, cinematic studio tone, Nikon DSLR quality, soft background, fashion editorial style",
+  "prompt": "1girl, solo, single subject, one woman only\nphoto-realistic, ultra-detailed, cinematic portrait, 9:16 vertical, \nbeautiful young woman, elegant and attractive, natural beauty, \nunique facial features, subtle asymmetry allowed, realistic skin texture, \nhighly detailed eyes, sharp iris, glossy lips, natural nose, \nnatural expression, soft makeup, \nsoft studio light, rim light on hair, warm skin tone, \nprofessional photography style, depth of field, cinematic color grading, \nsharp focus, award-winning portrait photo, dark aesthetic styles, dark aesthetic girl, natural skin tone, layered haircut, evening cocktail dress, neutral pastel tones, cool film grain, sensual vibe, elegant posture, tasteful composition",
   "negative_prompt": "cartoon, painting, drawing, blurry, watermark, bad anatomy, distorted face, extra fingers, nsfw, nude, overly dark scene, facial shadows, backlight",
   "output_dir": "../dark",
   "category": "dark"
 }
-
